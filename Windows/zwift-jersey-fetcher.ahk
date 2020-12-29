@@ -16,7 +16,7 @@ ScriptVersion = v1.0.1
 #SingleInstance Force
 #NoEnv
 
-url = https://raw.githubusercontent.com/desrod/zwift-jersey-fetcher/master/promo-codes.zhq
+url = https://raw.githubusercontent.com/mikybz/zwift-jersey-fetcher/master/promo-codes.zhq
 
 KeyDelayFactor := 5 ;
 
